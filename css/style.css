@@ -9,3 +9,13 @@
 
 
 /* SECTION ONE */
+
+.section-one-hero-container {
+    background-color: #1abc9c;
+    height: 678px;
+}
+
+.marg-top {
+    margin-top: 110px;
+    text-align: center;
+}
