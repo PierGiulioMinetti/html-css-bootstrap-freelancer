@@ -19,3 +19,11 @@
     margin-top: 110px;
     text-align: center;
 }
+
+
+/* <!-- SECTION TWO PORTFOLIO --> */
+
+.section-two-portfolio-hero-container {
+    height: 100vh;
+    background-color: #fff;
+}
