@@ -11,6 +11,10 @@
     text-align: center;
 }
 
+.align-left {
+    text-align: left;
+}
+
 
 /* HEADER */
 
@@ -30,16 +34,19 @@
 }
 
 .box-hero {
-    height: 450px;
+    /* height: 450px; */
 }
 
 
 /* <!-- SECTION TWO PORTFOLIO --> */
 
-.section-two-portfolio-hero-container {
+.hero-white-container {
     height: 100vh;
     background-color: #fff;
 }
 
 
 /* <!-- SECTION THREE - GREEN CONTAINER 2 --> */
+
+
+/* <!-- SECTION FOUR - CONTACT ME --> */
