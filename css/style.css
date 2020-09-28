@@ -1,3 +1,17 @@
+.back-col {
+    background-color: rgb(214, 141, 141);
+}
+
+.padding-around {
+    padding: 20px;
+}
+
+.marg-top {
+    margin-top: 110px;
+    text-align: center;
+}
+
+
 /* HEADER */
 
 .header-full-width {
@@ -13,11 +27,6 @@
 .section-one-hero-container {
     background-color: #1abc9c;
     height: 678px;
-}
-
-.marg-top {
-    margin-top: 110px;
-    text-align: center;
 }
 
 
