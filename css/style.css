@@ -1,3 +1,5 @@
+/* UTILITY */
+
 .back-col {
     background-color: rgb(214, 141, 141);
 }
@@ -16,7 +18,7 @@
 }
 
 .margin-bottom {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 
@@ -34,7 +36,7 @@
 
 .green-hero-container {
     background-color: #1abc9c;
-    height: 610px;
+    /* height: 610px; */
 }
 
 .box-hero {
@@ -47,6 +49,11 @@
 .hero-white-container {
     /* height: 90vh; */
     background-color: #fff;
+    margin-bottom: 100px;
+}
+
+.center-margin {
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 
