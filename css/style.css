@@ -41,8 +41,9 @@
 /* <!-- SECTION TWO PORTFOLIO --> */
 
 .hero-white-container {
-    height: 100vh;
+    /* height: 90vh; */
     background-color: #fff;
+    margin-bottom: 100px;
 }
 
 
@@ -50,3 +51,11 @@
 
 
 /* <!-- SECTION FOUR - CONTACT ME --> */
+
+
+/* <!-- SECTION FIVE --> */
+
+.section-five-container-full-width {
+    background-color: #2c3e50;
+    /* height: 305px; */
+}
