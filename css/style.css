@@ -306,6 +306,36 @@ form label {
     /* height: 305px; */
 }
 
+.col-xs-3.square-round {
+    width: 80px;
+    height: 80px;
+    border: 2px solid white;
+    border-radius: 100%;
+    line-height: 80px;
+    margin-right: 22px;
+}
+
+.col-xs-3.square-round:last-child {
+    margin-right: 0px;
+}
+
+.col-xs-3.square-round .fab {
+    font-size: 30px;
+}
+
+.col-xs-3.square-round a {
+    color: white;
+}
+
+.col-xs-3.square-round:hover a {
+    color: black;
+}
+
+.col-xs-3.square-round:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
 
 /* <!-- SECTION SIX --> */
 
