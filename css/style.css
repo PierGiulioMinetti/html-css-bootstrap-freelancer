@@ -21,6 +21,10 @@
     margin-bottom: 70px;
 }
 
+.margin-bottom-50 {
+    margin-bottom: 50px;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     ;
@@ -28,6 +32,10 @@ body {
 
 a:hover {
     text-decoration: none;
+}
+
+.white-text {
+    color: white;
 }
 
 
@@ -224,6 +232,10 @@ a:hover {
 
 
 /* <!-- SECTION THREE - GREEN CONTAINER 2 --> */
+
+.text-increase {
+    font-size: 17px;
+}
 
 
 /* <!-- SECTION FOUR - CONTACT ME --> */
