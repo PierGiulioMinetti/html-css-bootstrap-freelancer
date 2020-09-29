@@ -91,6 +91,48 @@ a:hover {
     font-weight: 700;
 }
 
+.hr-inline {
+    display: inline-block;
+    width: 150px;
+    border-bottom: 10px solid white;
+    border-top: 0px;
+    border-radius: 8%;
+    text-align: center;
+}
+
+.hr-inline:first-child {
+    margin-right: 20px;
+}
+
+.star {
+    font-size: 80px;
+    color: white;
+    border-color: white;
+    text-align: center;
+}
+
+.star-logo-text {
+    display: none;
+}
+
+
+/* display star logo after 698px */
+
+@media screen and (min-width: 698px) {
+    .star-logo-text {
+        display: block;
+    }
+}
+
+
+/* font scale down under734px */
+
+@media screen and (max-width: 734px) {
+    .avatar+h1 {
+        font-size: 30px
+    }
+}
+
 
 /* <!-- SECTION TWO PORTFOLIO --> */
 
