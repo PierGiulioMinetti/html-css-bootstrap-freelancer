@@ -262,6 +262,42 @@ a:hover {
 
 /* <!-- SECTION FOUR - CONTACT ME --> */
 
+form .form-group {
+    margin-bottom: 30px;
+}
+
+form .form-group label {
+    color: #6c757d;
+}
+
+form .form-group input[type="text"],
+form .form-group input[type="email"],
+form .form-group textarea {
+    border: 0;
+    border-bottom: 3px solid rgb(206, 204, 204);
+    box-shadow: none;
+}
+
+form label {
+    font-size: 35px;
+}
+
+.btn-lg-edit {
+    color: white;
+    background-color: #1abc9c;
+    width: 102px;
+    height: 63px;
+    margin-bottom: 30px;
+    border-color: transparent;
+    transition: background-color 0.4s;
+    font-size: larger;
+}
+
+.btn-lg-edit:hover {
+    background-color: #1e927b;
+    border-color: transparent;
+}
+
 
 /* <!-- SECTION FIVE --> */
 
