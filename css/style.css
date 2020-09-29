@@ -1,7 +1,7 @@
 /* UTILITY */
 
 .back-col {
-    background-color: rgb(214, 141, 141);
+    /* background-color: rgb(214, 141, 141); */
 }
 
 .padding-around {
@@ -35,6 +35,14 @@ a:hover {
 }
 
 .white-text {
+    color: white;
+}
+
+.green-color {
+    color: #1cbc9c;
+}
+
+.white-color {
     color: white;
 }
 
@@ -324,7 +332,7 @@ form label {
 }
 
 .col-xs-3.square-round a {
-    color: white;
+    color: #1cbc9c;
 }
 
 .col-xs-3.square-round:hover a {
@@ -334,6 +342,11 @@ form label {
 .col-xs-3.square-round:hover {
     background-color: white;
     cursor: pointer;
+}
+
+.marg-top.back-col.margin-bottom-50>h2,
+.marg-top.back-col.margin-bottom-50>div {
+    color: white;
 }
 
 
