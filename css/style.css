@@ -152,8 +152,28 @@ a:hover {
     text-align: center;
 }
 
+.blue-color {
+    color: #2c3e50;
+}
+
+.hr-inline.blue-color {
+    border-bottom: 10px solid #2c3e50;
+}
+
+.star-715 {
+    display: none;
+}
+
+
+/* star shows up after 714px */
+
+@media screen and (min-width: 715px) {
+    .star-715 {
+        display: block;
+    }
+}
+
 .hero-white-container {
-    /* height: 90vh; */
     background-color: #fff;
     margin-bottom: 100px;
 }
