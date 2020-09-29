@@ -33,6 +33,9 @@ a:hover {
 
 /* -------------------------- */
 
+
+/* HEADER */
+
 .navbar {
     margin-bottom: 0px;
     border: 0px;
@@ -70,9 +73,6 @@ a:hover {
 }
 
 
-/* copiato sezione header */
-
-
 /* SECTION ONE */
 
 .green-hero-container {
@@ -80,8 +80,15 @@ a:hover {
     /* height: 610px; */
 }
 
-.box-hero {
-    /* height: 450px; */
+.avatar {
+    height: 250px;
+    background-color: #1abc9c;
+}
+
+.avatar+h1 {
+    color: white;
+    font-size: 70px;
+    font-weight: 700;
 }
 
 
