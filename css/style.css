@@ -237,6 +237,28 @@ a:hover {
     font-size: 17px;
 }
 
+.btn-container {
+    text-align: center;
+}
+
+.btn-default {
+    width: 236px;
+    height: 56px;
+    background-color: #1abc9c;
+    border: 2px solid white;
+    color: white;
+    transition: color .2s ease-in, border ease-in .2s;
+}
+
+.btn-default:hover {
+    border: transparent;
+    color: black;
+}
+
+.fa-download {
+    padding: 0 15px;
+}
+
 
 /* <!-- SECTION FOUR - CONTACT ME --> */
 
