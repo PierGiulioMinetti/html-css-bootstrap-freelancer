@@ -133,6 +133,12 @@ a:hover {
     }
 }
 
+.back-col.box-hero.center-margin div:last-child {
+    color: white;
+    font-size: 32px;
+    margin: 20px 0;
+}
+
 
 /* <!-- SECTION TWO PORTFOLIO --> */
 
