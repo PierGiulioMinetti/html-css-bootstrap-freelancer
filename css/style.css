@@ -82,6 +82,12 @@ a:hover {
     font-size: 25px;
 }
 
+.menu-header li a:hover,
+.container .navbar-header>a:hover {
+    color: orange;
+    transition: 0.7s;
+}
+
 @media screen and (max-width: 991px) {
     .navbar-brand {
         line-height: 28px;
@@ -226,6 +232,7 @@ a:hover {
 
 .overlay-img:hover {
     opacity: 0.8;
+    cursor: pointer;
 }
 
 .fa-plus {
